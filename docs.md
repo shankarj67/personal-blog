@@ -8,9 +8,19 @@ User can send an email
 User can like the blog
 
 
+https://djangocentral.com/building-a-blog-application-with-django/
 Admin:
 
 Admin can create a new article
+
+
+New feature:
+
+Add portfolio page
+Add about page
+Add tag for each category
+
+
 
 Roadmap (Github issues)
 
@@ -24,6 +34,7 @@ Roadmap (Github issues)
 8. Learndjango
 9. djangochat
 10. mattlayman
+11. Secure  continer with let's encrypt (testdriven.io)
 
 Add a wrteup for everything that I am doing
 
